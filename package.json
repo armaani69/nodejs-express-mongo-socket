@@ -1,0 +1,27 @@
+{
+  "name": "nodejs-express-mongo-socket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/armaani69/nodejs-express-mongo-socket.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/armaani69/nodejs-express-mongo-socket/issues"
+  },
+  "homepage": "https://github.com/armaani69/nodejs-express-mongo-socket#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.17.3",
+    "http": "0.0.1-security",
+    "mongodb": "^4.5.0",
+    "mongoose": "^6.2.10",
+    "socket.io": "^4.4.1"
+  }
+}
